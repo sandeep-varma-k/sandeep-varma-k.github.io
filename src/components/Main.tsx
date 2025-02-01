@@ -1,6 +1,8 @@
 import React from "react";
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import MailIcon from '@mui/icons-material/Mail';
+import ArticleIcon from '@mui/icons-material/Article';
 import '../assets/styles/Main.scss';
 
 import profile from '../data/profile.json';
@@ -8,6 +10,8 @@ import {Stack} from "@mui/material";
 import Divider from "@mui/material/Divider";
 
 function Main() {
+
+  const mailTo = `mailto:${profile.email}`;
 
   return (
     <div className="container">
@@ -19,6 +23,8 @@ function Main() {
           <div className="social_icons">
             <a href={profile.linkedin} target="_blank" rel="noreferrer"><LinkedInIcon/></a>
             <a href={profile.github} target="_blank" rel="noreferrer"><GitHubIcon/></a>
+            <a href={mailTo} target="_blank" rel="noreferrer"><MailIcon/></a>
+            <a href={profile.resume} target="_blank" rel="noreferrer"><ArticleIcon/></a>
           </div>
           <h1>{profile.firstName} {profile.lastName}</h1>
           <p>
@@ -34,8 +40,10 @@ function Main() {
 
 
           <div className="mobile_social_icons">
-            <a href="https://github.com/yujisatojr" target="_blank" rel="noreferrer"><GitHubIcon/></a>
-            <a href="https://www.linkedin.com/in/yujisato/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            <a href={profile.linkedin} target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            <a href={profile.github} target="_blank" rel="noreferrer"><GitHubIcon/></a>
+            <a href={mailTo} target="_blank" rel="noreferrer"><MailIcon/></a>
+            <a href={profile.resume} target="_blank" rel="noreferrer"><ArticleIcon/></a>
           </div>
         </div>
       </div>

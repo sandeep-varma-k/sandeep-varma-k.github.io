@@ -5,5 +5,47 @@
   "image": "https://media.licdn.com/dms/image/v2/C4E03AQE5jiDn9fpuDA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1654461236463?e=1743638400&v=beta&t=zRQoG40ieplnLcy6B18Bevj5LQa8ZRhkUGVCy746v0M",
   "linkedin": "https://www.linkedin.com/in/sandeep-varma-k/",
   "github": "https://github.com/sandeep-varma-k",
-  "roles": ["Full Stack Developer", "Engineering Manager", "Application Architect"]
+  "resume": "https://drive.google.com/file/d/1A0ARDyZyHcHzKUNxJJm5wD61zWfTriPp/view?usp=sharing",
+  "roles": ["Full Stack Developer", "Engineering Manager", "Application Architect"],
+  "expertise": {
+    "Full Stack Development": {
+      "Description": "",
+      "mui_logo": "",
+      "skills": [
+        "Python",
+        "Golang",
+        "React",
+        "TypeScript",
+        "React",
+        "JavaScript",
+        "SQL",
+        "Postman"
+      ]
+    },
+    "Application Architecture": {
+      "Description": "",
+      "skills": [
+        "Microservices",
+        "REST",
+        "GraphQL",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "GCP",
+        "Azure"
+      ]
+    },
+    "Engineering Management": {
+      "Description": "",
+      "skills": [
+        "Agile",
+        "Scrum",
+        "Kanban",
+        "Jira",
+        "Confluence",
+        "Git",
+        "Github"
+      ]
+    }
+  }
 }
