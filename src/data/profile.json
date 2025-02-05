@@ -9,7 +9,7 @@
   "roles": ["Full Stack Developer", "Engineering Manager", "Application Architect"],
   "expertise": {
     "Full Stack Development": {
-      "Description": "",
+      "Description": "Versatile Full-Stack Engineer with expertise in designing, developing, and optimizing scalable web applications across front-end and back-end technologies. Skilled in building robust software solutions, modernizing applications, and collaborating with teams to deliver high-quality, user-centric products.",
       "mui_logo": "",
       "skills": [
         "Python",
@@ -23,7 +23,7 @@
       ]
     },
     "Application Architecture": {
-      "Description": "",
+      "Description": "Seasoned Application Architect with a strong background in designing scalable, high-performance systems and modernizing applications for cloud-native environments. Skilled in defining architectural best practices, optimizing software delivery, and collaborating with diverse teams to align technical solutions with business goals.",
       "skills": [
         "Microservices",
         "REST",
@@ -36,15 +36,15 @@
       ]
     },
     "Engineering Management": {
-      "Description": "",
+      "Description": "Experienced software engineering leader with a proven ability to build and lead high-performing teams while driving successful project delivery. Skilled in collaborating with cross-functional teams, mentoring engineers, and aligning technical execution with business objectives.",
       "skills": [
         "Agile",
         "Scrum",
-        "Kanban",
         "Jira",
-        "Confluence",
-        "Git",
-        "Github"
+        "Hiring",
+        "Performance Management",
+        "Mentoring",
+        "Strategic Planning"
       ]
     }
   }
