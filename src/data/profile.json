@@ -10,7 +10,7 @@
   "expertise": {
     "Full Stack Development": {
       "Description": "Versatile Full-Stack Engineer with expertise in designing, developing, and optimizing scalable web applications across front-end and back-end technologies. Skilled in building robust software solutions, modernizing applications, and collaborating with teams to deliver high-quality, user-centric products.",
-      "icon": "faReact",
+      "icon": "fullStack",
       "skills": [
         "Python",
         "Golang",
@@ -24,7 +24,7 @@
     },
     "Application Architecture": {
       "Description": "Seasoned Application Architect with a strong background in designing scalable, high-performance systems and modernizing applications for cloud-native environments. Skilled in defining architectural best practices, optimizing software delivery, and collaborating with diverse teams to align technical solutions with business goals.",
-      "icon": "faDocker",
+      "icon": "architecture",
       "skills": [
         "Microservices",
         "Microfrontends",
@@ -39,7 +39,7 @@
     },
     "Engineering Management": {
       "Description": "Experienced software engineering leader with a proven ability to build and lead high-performing teams while driving successful project delivery. Skilled in collaborating with cross-functional teams, hiring and mentoring engineers, and aligning technical execution with business objectives while prioritizing ROI.",
-      "icon": "faPython",
+      "icon": "management",
       "skills": [
         "Agile",
         "Scrum",

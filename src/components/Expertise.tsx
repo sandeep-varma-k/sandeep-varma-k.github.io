@@ -1,17 +1,19 @@
 import React from "react";
 import '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faReact, faDocker, faPython } from '@fortawesome/free-brands-svg-icons';
+import { faReact, faDocker } from '@fortawesome/free-brands-svg-icons';
+import { faPeopleRoof } from '@fortawesome/free-solid-svg-icons';
 import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
 import profile from '../data/profile.json';
 
 const iconMap = {
-    faReact: faReact,
-    faDocker: faDocker,
-    faPython: faPython
+    fullStack: faReact,
+    architecture: faDocker,
+    management: faPeopleRoof
 };
+
 
 type ExpertiseKeys = "Full Stack Development" | "Application Architecture" | "Engineering Management";
 
