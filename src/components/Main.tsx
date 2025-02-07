@@ -3,11 +3,11 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import MailIcon from '@mui/icons-material/Mail';
 import ArticleIcon from '@mui/icons-material/Article';
-import '../assets/styles/Main.scss';
-
-import profile from '../data/profile.json';
 import {Stack} from "@mui/material";
 import Divider from "@mui/material/Divider";
+
+import '../assets/styles/Main.scss';
+import profile from '../data/profile.json';
 
 function Main() {
 
