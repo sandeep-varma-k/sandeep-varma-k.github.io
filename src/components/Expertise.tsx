@@ -25,7 +25,8 @@ function Expertise() {
         <div className="skills-container">
             <h1>Expertise</h1>
 
-            <div className="skills-grid">
+            <div
+                className="skills-grid">
                 {Object.keys(profile.expertise).map((expertise, index) => {
                     const expertiseKey = expertise as ExpertiseKeys;
                     // @ts-ignore

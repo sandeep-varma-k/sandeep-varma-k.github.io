@@ -1,8 +1,8 @@
 import React, {useEffect, useState} from 'react';
 import './App.css';
 import FadeIn from "./components/FadeIn";
-import {Expertise, Footer, Main, Navigation, Project, Timeline} from "./components";
-import Contact from "./components/Contact";
+import {Expertise, Footer, Main, Navigation, Timeline} from "./components";
+
 
 function App() {
   const [mode, setMode] = useState<string>('dark');
@@ -26,8 +26,8 @@ function App() {
           <Main/>
           <Expertise/>
           <Timeline/>
-          <Project/>
-          <Contact/>
+          {/*<Project/>*/}
+          {/*<Contact/>*/}
         </FadeIn>
         <Footer />
       </div>
