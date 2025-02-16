@@ -51,5 +51,66 @@
         "Cross-Functional Collaboration"
       ]
     }
-  }
+  },
+  "timeline" : [
+    {
+      "roles": ["Senior Lead Software Engineer", "Senior Engineering Manager"],
+      "type": "work",
+      "image": "/assets/images/capital_one_logo.png",
+      "company": "Capital One",
+      "location": "McLean, VA",
+      "time": "Jan 2023 - Present",
+      "description": "Led three engineering teams in architecting, developing and deploying a scalable, cloud-native data transformation platform on AWS, enhancing system reliability and performance."
+    },
+
+    {
+      "roles": ["Principal Software Engineer", "Senior Software Engineer"],
+      "type": "work",
+      "image": "/assets/images/verizon_logo.png",
+      "company": "Verizon",
+      "location": "Ashburn, VA",
+      "time": "Dec 2019 - Dec 2022",
+      "description": "Designed and developed enterprise-scale, data-intensive full-stack applications, optimizing performance across multi-cloud environments."
+    },
+
+    {
+      "roles": ["Senior Engineering Manager", "Lead Data Engineer"],
+      "type": "work",
+      "image": "/assets/images/inovalon_logo.png",
+      "company": "Inovalon",
+      "location": "Bowie, MD",
+      "time": "Jun 2014 - Nov 2019",
+      "description": "Developed and optimized data-driven healthcare applications, enhancing performance, scalability, and analytics in a cloud-based environment."
+    },
+
+    {
+      "roles": ["Masters in Business Administration"],
+      "type": "study",
+      "image": "/assets/images/umd_bschool_logo.png",
+      "company": "University of Maryland",
+      "location": "College Park, MD",
+      "time": "Aug 2012 - May 2014",
+      "description": "Earned an MBA, gaining expertise in business strategy, leadership, and technology management to drive innovation and align engineering solutions with business goals."
+    },
+
+    {
+      "roles": ["Software Engineer"],
+      "type": "work",
+      "image": "/assets/images/tcs_logo.png",
+      "company": "Tata Consultancy Services",
+      "location": "Chennai, India",
+      "time": "Jun 2010 - Jun 2012",
+      "description": "Developed critical software modules for Citi Bank’s global systems, enhancing performance and reliability while mentoring new recruits and ensuring code quality in an Agile environment."
+    },
+
+    {
+      "roles": ["Bachelors in Computer Science Engineering"],
+      "type": "study",
+      "image": "/assets/images/sastra_logo.png",
+      "company": "SASTRA University",
+      "location": "Tamilnadu, India",
+      "time": "Jun 2006 - May 2010",
+      "description": "Earned a degree in Computer Science Engineering, building a strong foundation in software development, algorithms, and system design."
+    }
+  ]
 }

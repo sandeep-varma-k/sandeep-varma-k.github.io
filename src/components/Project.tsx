@@ -12,6 +12,7 @@ import mock10 from '../assets/images/mock10.png';
 import '../assets/styles/Project.scss';
 
 function Project() {
+    console.log(mock10)
     return(
     <div className="projects-container" id="projects">
         <h1>Personal Projects</h1>
